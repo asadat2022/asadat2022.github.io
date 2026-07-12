@@ -6,7 +6,7 @@ Use this alongside `portfolio.jsx` as the source of truth for all written conten
 - Name: Muhammad Asad Tanveer
 - Location: Multan, Punjab, Pakistan
 - Current role: Software Engineer / Laravel & React Developer at sandyApps
-- Contact: [add your email], [add LinkedIn URL], [add GitHub URL]
+- Contact: asadat2022@gmail.com, https://www.linkedin.com/in/muhammad-asad-tanveer, https://github.com/asadat2022
 
 ## LinkedIn Headline
 Full-Stack Developer | Laravel & React | Building Cybersecurity Platforms End-to-End
@@ -90,4 +90,4 @@ Completed Matriculation (SSC) under Board of Intermediate and Secondary Educatio
 - Client/company project names (e.g. specific client identities) should NOT be published — described generically only, per confidentiality.
 - No live demo links or screenshots available for client work (NDA). Personal code snippets exist on GitHub (not yet organized).
 - Next planned step: organize GitHub repos + READMEs, then link them from the portfolio's "Selected Work" section.
-- Contact fields (email, LinkedIn, GitHub URLs) are placeholders — fill in before publishing.
+- Contact fields (email, LinkedIn, GitHub URLs) are filled in — see Basic Info above.

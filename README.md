@@ -1,4 +1,4 @@
-# my-portfolio
+# portfolio
 
 Personal portfolio site for Muhammad Asad Tanveer — full-stack developer (Laravel, React, Node.js). Built with React + Vite, styled as a terminal/changelog-themed single page: hero with an animated terminal intro, career changelog, stack overview, and selected work.
 
